@@ -14,3 +14,8 @@ build/
 
 # Others
 out/
+/bin/
+*.class
+*.log
+.idea/
+.vscode/
